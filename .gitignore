@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Log files
+logs/
+*.log
+
+# Environment / secrets
+.env
+*.env
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Test cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints 
+.ipynb_checkpoints/
